@@ -5,7 +5,7 @@ a {
 .btn-body{
     height: 80px;
     width: 80px;
-    border-radius: 20px;
+    border-radius: 10px;
     color: #F8D9C0;
     display: flex;
     align-items: center;
@@ -20,6 +20,7 @@ a {
     background-color: rgba(244, 187, 146,1);
     color: #fff;
     transform: scale(1.05);
+    margin-bottom: 1rem;
 }
 
 .btn-body:hover{
